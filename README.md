@@ -13,3 +13,7 @@ Please note that the model does **NOT** create accurate output, this is most lik
 5. Copy the folder `brownbear2polarbear_checkpoint` to your google drive (inside `Colab Notebooks`, not `brownbear2polarbear`).
 6. Now you should be ready to open `brownbear2polarbear_cyclegan_only_run_tests.ipynb` in CoLab and run it.
 7. After running, the results should be stored in `brownbear2polarbear_results`, along with a copy in a folder labeled after the date and time of completing the run.
+
+
+## Copyright
+All images are taken with permission for non-commercial and educational use from ImageNet.
