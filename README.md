@@ -1,5 +1,6 @@
 # brownbear2polarbear
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hkh515/brownbear2polarbear/]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hkh515/brownbear2polarbear)
+
 Experiment using CycleGAN for Image to Image translation on images of brown bears and polar bears.
 
 Please note that the model does **NOT** create accurate output, this is most likely due to the training data.
