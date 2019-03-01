@@ -4,6 +4,7 @@ Experiment using CycleGAN for Image to Image translation on images of brown bear
 Please note that the model does **NOT** create accurate output, this is most likely due to the training data.
 
 <img src="./test_results/images/brown_bear_anchorage_zoo_real_A.png" width="45%"></img> <img src="./test_results/images/brown_bear_anchorage_zoo_fake_B.png" width="45%"></img>
+<img src="./test_results/images/gallery5-7_real_A.png" width="45%"></img> <img src="./test_results/images/gallery5-7_fake_B.png" width="45%"></img>
 
 ## Setup for using with your own images
 1. Create a folder in your google drive named `Colab Notebooks` (if it does not already exist)
