@@ -1,4 +1,5 @@
 # brownbear2polarbear
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hkh515/brownbear2polarbear/]
 Experiment using CycleGAN for Image to Image translation on images of brown bears and polar bears.
 
 Please note that the model does **NOT** create accurate output, this is most likely due to the training data.
@@ -12,7 +13,7 @@ Please note that the model does **NOT** create accurate output, this is most lik
 3. Create a .zip archive called "testA" containing a folder called "testA" containing images of brown bears you would like to transform.
 4. Place this .zip archive inside the folder `brownbear2polarbear` that we created in step 2.
 5. Copy the folder `brownbear2polarbear_checkpoint` to your google drive (inside `Colab Notebooks`, not `brownbear2polarbear`).
-6. Now you should be ready to open `brownbear2polarbear_cyclegan_only_run_tests.ipynb` in CoLab and run it.
+6. Now you should be ready to open `brownbear2polarbear_cyclegan_only_run_tests.ipynb` in CoLab and run it, click the badge on the top of this page to open this in colab.
 7. After running, the results should be stored in `brownbear2polarbear_results`, along with a copy in a folder labeled after the date and time of completing the run.
 
 
