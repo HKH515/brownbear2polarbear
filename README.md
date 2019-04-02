@@ -3,7 +3,7 @@
 
 Experiment using CycleGAN for Image to Image translation on images of brown bears and polar bears.
 
-Please note that the model does **NOT** create accurate output, this is most likely due to the training data.
+Please note that the model does **NOT** create accurate output, this is most likely due to the fact that the background of the images in A and B are not similiar.
 
 <img src="./test_results/images/brown_bear_anchorage_zoo_real_A.png" width="45%"></img> <img src="./test_results/images/brown_bear_anchorage_zoo_fake_B.png" width="45%"></img>
 <img src="./test_results/images/gallery5-7_real_A.png" width="45%"></img> <img src="./test_results/images/gallery5-7_fake_B.png" width="45%"></img>
